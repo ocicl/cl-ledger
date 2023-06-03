@@ -1,0 +1,9 @@
+* cl-ledger
+
+Port of the Ledger accounting system (see project "ledger") to Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/ledger/cl-ledger.git |
+| commit  | e25d5f9                                     |
+| systems | cl-ledger                                   |
+|---------+---------------------------------------------|
